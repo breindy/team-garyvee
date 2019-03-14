@@ -1,0 +1,19 @@
+{
+  "name": "team-garyvee",
+  "version": "1.0.0",
+  "description": "theLocal415 project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breindy/team-garyvee.git"
+  },
+  "author": "Michelle Uy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/breindy/team-garyvee/issues"
+  },
+  "homepage": "https://github.com/breindy/team-garyvee#readme"
+}
