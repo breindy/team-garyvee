@@ -1,0 +1,30 @@
+$black: #151515;
+$maroon: #800000;
+$white: #ffffff;
+
+body {
+  background: url('/assets/Liquid-Cheese.svg');
+  background-size: cover;
+  padding-bottom: 480px;
+  color: $black;
+  font-family: Gotham Rounded;
+}
+
+.logo {
+  padding-left: 45px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.landing-section,
+.map-section {
+  height: 100vh;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.map-section {
+  height: 100vh;
+  margin-top: 300px;
+  text-align: center;
+}
