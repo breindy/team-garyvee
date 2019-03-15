@@ -67,6 +67,8 @@ Little info:
 
 :ballot_box_with_check: made basic full-stack architecture (client/server)
 
+:red_circle: basic landing page (but a work in progress)
+
 ### Future Steps :trollface:
 
 1. Mockup of DB Architecture (Print diagram digitally)

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/breindy/team-garyvee/issues"
   },
-  "homepage": "https://github.com/breindy/team-garyvee#readme"
+  "homepage": "https://github.com/breindy/team-garyvee#readme",
+  "dependencies": {
+    "circular-std": "^1.0.0"
+  }
 }
