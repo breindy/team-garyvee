@@ -8,7 +8,7 @@ class About extends Component {
       <div>
         <Container>
           <Jumbotron>
-            <h3>About</h3>
+            <h3 className="text-center">About</h3>
           </Jumbotron>
         </Container>
       </div>

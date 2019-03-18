@@ -8,7 +8,7 @@ class Map extends Component {
       <div>
         <Container>
           <Jumbotron>
-            <h3>Maps</h3>
+            <h3 className="text-center">Maps</h3>
           </Jumbotron>
         </Container>
       </div>

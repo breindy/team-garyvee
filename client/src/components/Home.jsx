@@ -29,7 +29,7 @@ class Home extends Component {
               <Image src="assets/map.png" className="profile-pic" />
               <h5>Find out what's around your neighborhood today!</h5>
               <br />
-              <Link to="/about">
+              <Link to="/map">
                 <Button bsStyle="btn">Explore</Button>
               </Link>
             </Col>
