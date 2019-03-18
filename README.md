@@ -67,7 +67,7 @@ Little info:
 
 :ballot_box_with_check: made basic full-stack architecture (client/server)
 
-:red_circle: basic landing page (but a work in progress)
+:ballot_box_with_check: basic landing page (first iteration finished)
 
 ### Future Steps :trollface:
 

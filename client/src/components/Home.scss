@@ -28,3 +28,47 @@ body {
   margin-top: 300px;
   text-align: center;
 }
+
+.jumbotron {
+  margin-bottom: 4em;
+}
+.picture-wrapper {
+  margin-bottom: 2em;
+}
+
+.profile-pic {
+  margin-top: 5em;
+  margin-bottom: 2em;
+  height: 300px;
+  width: 500px;
+}
+
+h3 {
+  margin-bottom: 1em;
+}
+
+.landing-section {
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  margin-top: 5em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.heading-paragraph {
+  color: black;
+  font-size: 20px;
+  margin: 20px 0 25px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  display: flex;
+}
+
+.heading-header {
+  display: flex;
+  align-items: center;
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
